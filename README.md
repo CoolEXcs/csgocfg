@@ -12,5 +12,20 @@
     - Config for starting a custom warmup for training nades/boosts/etc.
 -  0.cfg
     - Gives you some knives
-- builder/
-    - Folder that contains all the parts of the whole config
+- Additional configs
+    - aliasbinds.cfg
+	    - Binds that are using aliases
+	- buybinds.cfg
+		- Binds for buying the most used items
+	- crosshairs.cfg
+		- Displays every crosshair i might want to use in console
+	- defaultbinds.cfg
+		- Mostly, default binds with some non-default ones
+	- performance.cfg 
+		- Settings that might increase some game/connection performance
+	- textchat.cfg
+		- Some agressive/useful text messages and settings
+	- viewmodels.cfg 
+		- Some of my mostly used viewmodels
+	- voicechat.cfg 
+		- Voicechat settings/binds
