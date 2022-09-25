@@ -1,4 +1,3 @@
-
 -  autoexec.cfg 
     - Main cfg file that includes all the "builder/*.cfg" files
 - miragespawns.cfg
