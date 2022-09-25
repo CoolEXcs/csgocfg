@@ -1,2 +1,17 @@
-# csgocfg
- Here is my cfg
+
+-  autoexec.cfg 
+    - Main cfg file that includes all the "builder/*.cfg" files
+- miragespawns.cfg
+    - All 9 spawns for insta window smokes on de_mirage
+-  mrgwindowsmokes.cfg
+    - Contains description (ru) on how to throw each of insta window smokes from miragespawns.cfg
+-  pistolround.cfg
+    - Settings for training a pistol beginning from freezetime stage
+-  stratround.cfg
+    - Settings for training a buy round beginning from freezetime stage
+-  training.cfg
+    - Config for starting a custom warmup for training nades/boosts/etc.
+-  0.cfg
+    - Gives you some knives
+- builder/
+    - Folder that contains all the parts of the whole config
